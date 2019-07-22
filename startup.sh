@@ -19,6 +19,3 @@ sudo apt-get update -y
 
 sudo apt-get install docker-ce -y
 
-sudo docker -v
-
-sudo docker info
