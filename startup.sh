@@ -2,6 +2,8 @@
 
 sudo apt-get update
 
+sudo apt-get upgrade -y
+
 sudo apt-get install -y \
     apt-transport-https \
     ca-certificates \
@@ -20,3 +22,5 @@ sudo apt-get update -y
 sudo apt-get install docker-ce -y
 
 sudo apt-get install docker-compose -y
+
+sudo apt-get install emacs25 -y
