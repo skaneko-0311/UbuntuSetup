@@ -59,8 +59,8 @@ sudo apt-get install -y \
 
 pyenv install -s 3.7.4
 
-pyenv local 3.7.4
+pyenv global 3.7.4
 
 pyenv versions
 
-pip install pep8
+pip install pycodestyle
