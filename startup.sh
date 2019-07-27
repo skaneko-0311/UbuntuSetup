@@ -62,3 +62,5 @@ pyenv install -s 3.7.4
 pyenv local 3.7.4
 
 pyenv versions
+
+pip install pep8
